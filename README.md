@@ -1,11 +1,11 @@
 "# QA-OneLab-2025" 
 Syllabus
 
-Introduction to the QA Profession and the Role of a Tester in Software Development
-Types of Testing
-Test Documentation
-Test Design Techniques
-Working with Developer Tools (DevTools)
-API Testing with Posman \ Swagger
-Autotests and Perfomance testing
-Final exam
+1.Introduction to the QA Profession and the Role of a Tester in Software Development
+2.Types of Testing
+3.Test Documentation
+4.Test Design Techniques
+5.Working with Developer Tools (DevTools)
+6.API Testing with Posman \ Swagger
+7.Autotests and Perfomance testing
+8. Final exam
